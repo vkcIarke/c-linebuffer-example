@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 #define nil  (void *)(0)
-#define pint size_t
+#define pint size_t      /* "pointer integer" */
 
 char *readline(FILE *f)
 {
