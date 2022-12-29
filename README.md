@@ -1,1 +1,1 @@
-
+Small program to demonstrate converting lines from text file streams into strings. Sometimes it is desirable to store a set of lines from program input as an array of strings. This program does not implement array building, but it can be easily implemented on top of what's present.
